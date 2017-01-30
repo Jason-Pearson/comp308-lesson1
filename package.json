@@ -1,15 +1,19 @@
 {
   "name": "comp308-lesson1",
   "version": "1.0.0",
-  "description": "Demo app for NodeJS",
+  "description": "",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [
-    "NodeJS"
-  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jason-Pearson/comp308-lesson1.git"
+  },
   "author": "Jason Pearson",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jason-Pearson/comp308-lesson1/issues"
+  },
+  "homepage": "https://github.com/Jason-Pearson/comp308-lesson1#readme"
 }
-//made via cmd - on this directory - npm init (command) - this covers the dependencies of this project
